@@ -2,4 +2,5 @@
 First repository in git hub
 
 
-https://mybinder.org/v2/gh/sm0605/first_repository/HEAD
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sm0605/first_repository/HEAD)
